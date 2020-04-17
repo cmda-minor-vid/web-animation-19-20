@@ -44,7 +44,7 @@ We’d like to use your work as examples for other students and want to inform y
 > * Ask questions in channels instead of direct messaging teachers. Other students might have encountered the same problem and found a solution. 
 
 [🎦 _Watch a video_ on how to ask questions][videoask]
-
+A
 ## Introduction
 _Introduce yourself to your teacher!_
 
