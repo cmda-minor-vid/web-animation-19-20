@@ -37,7 +37,7 @@ This course is part of the **Minor Visual (Interface) Design** before **Ontwerpe
 
 ### Assignment
 
-Pick a piece of artwork (poster, album cover etc.) from either the [_Letterform Archive_][letterform] or [_AIGA Archive_][aiga] and translate that to the web. You can also pitch another piece of artwork to your teacher.What happens when people hover over certain elements with their mouse? What if they press keys on their keyboard? How should the 'static artwork' behave on different screen sizes? First try to re-create it with web technology (html elements, svg) then add interactivity and animation and maybe you can even enhance the artwork with elements in the same graphical style as the original work.
+Pick a piece of artwork (poster, album cover etc.) from either the [_Letterform Archive_][letterform] or [_AIGA Archive_][aiga] and translate that to the web. You can also pitch another piece of artwork to your teacher. What happens when people hover over certain elements with their mouse? What if they press keys on their keyboard? How should the 'static artwork' behave on different screen sizes? First try to re-create it with web technology (html elements, svg) then add interactivity and animation and maybe you can even enhance the artwork with elements in the same graphical style as the original work.
 
 ## Communication
 
