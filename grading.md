@@ -21,72 +21,22 @@ Presenting your work is a skill all by itself, make sure you prepare yourself pr
 
 > Make sure your repository stays online after the oral test is finished, we might want to check the code handed in on GitHub after the test. We also want to download and archive your project when it’s done.
 
-## Rubic
-
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th><strong>1-2</strong></th>
-      <th><strong>3-4</strong></th>
-      <th><strong>5-6</strong></th>
-      <th><strong>7-8</strong></th>
-      <th><strong>9-10</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th align="center" scope="row"><strong>Style</strong></th>
-      <td align="center">The artwork is on the web but mostly consists of images </td>
-      <td align="center">The artwork is translated to the web; almost no css is used to style the work</td>
-      <td align="center">The artwork is translated to the web and semantic html & css is used; proper choice of elements which are styled coherently</td>
-      <td align="center">The artwork is responsive on different screen sizes and styled with cutting edge CSS features</td>
-      <td align="center">🖼 <br> The artwork is enhanced with elements in the same visual style as the original work</td>
-    </tr>
-    <tr>
-      <th align="center" scope="row">Interactivity</th>
-      <td align="center">The artwork has no interaction; it's completely static</td>
-      <td align="center">The artwork only responds on simple mouse interactions such as hovers</td>
-      <td align="center">Elements change based on user input through pseudo-classes; keyboard and mouse states</td>
-      <td align="center">Advanced combinations of pseudo-classes are used to style keyboard and mouse states</td>
-      <td align="center">
-        👨🏼‍💻<br>The artwork responds to events emitted from mouse or keyboard; clicking, dragging etc.
-      </td>
-    </tr>
-    <tr>
-      <th align="center" scope="row">Animation</th>
-      <td align="center">Transitions and animation are used but feel choppy</td>
-      <td align="center">Transitions and animation are used but at random spots; don't feel consistent throughout the artwork</td>
-      <td align="center">Transitions and animation are used; animations use keyframes and transitions have easing</td>
-      <td align="center">Transitions and animation are carefully chosen; the project uses some principles of animation</td>
-      <td align="center">
-        📈<br> The animation adds emotion to the artwork and all the principles of animation are applied; easing is tweaked to perfection
-      </td>
-    </tr>
-    <tr>
-      <th align="center" scope="row">Understanding</th>
-      <td align="center">There is substantial own code; the student can explain some of the code that exists</td>
-      <td align="center">The student can explain some parts of their code, how some parts works together and the project is documented</td>
-      <td align="center">The student can explain every part of their code, how everything works together, and the project is well documented</td>
-      <td align="center">The project is complex but still understandable; the student carefully chose every part of their stack; the student can make live changes</td>
-      <td align="center">
-        🤓<br>
-        The student understands principles and a geeky conversation can be held about these principles, code and documentation read like a book; the project is structured logically and the student can talk about alternative tech solutions
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-> **Note:**
-> _you'll need a > 5.5 for each row to pass:_  you can't compensate between rows
-> _each of this rubric’s rows is cumulative:_ for example, to get a 5-6 on concept, you also need to have a 1-2 and 3-4.
+## Rubric
 
 | Checklist                                                                  |
 | -------------------------------------------------------------------------- |
 | Source code is available on GitHub                                         |
-| Live version of the application is deployed                                |
+| Live version of the application is deployed (gh pages)                               |
 | Project is documented and has a `readme.md`                                |
 | Cites the sources used; either in code comments or APA style in readme     |
+
+![Rubric screenshot](/assets/rubric.png)
+
+[View the Rubric in Google drive →](https://docs.google.com/spreadsheets/d/1tJksflVrCKfbu8bOLd41ELUN0DdsY6vw80DDgg_Nres/edit?usp=sharing)
+
+> **Note:**
+> _you'll need a > 5.5 for each row to pass:_  you can't compensate between rows
+> _each of this rubric’s rows is cumulative:_ for example, to get a 6 on style, you also need to have a 4.
 
 
 ### Grade
