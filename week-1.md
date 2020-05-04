@@ -32,7 +32,6 @@ If you want some background information on why this course exists, read the foll
 #### Synopsis
 
 *   **Time**: 16:00h
-*   **Goals**: subgoal _1_, subgoal _2_, subgoal _3_ & subgoal _4_
 *   **Due**: before _lecture 2_
 
 #### Description

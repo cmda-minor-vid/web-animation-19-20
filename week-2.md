@@ -29,7 +29,6 @@
 #### Synopsis
 
 *   **Time**: 16:00h
-*   **Goals**: subgoal _5_, subgoal _6_, subgoal _7_ & subgoal _8_
 *   **Due**: before _lecture 3_
 
 #### Description
