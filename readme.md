@@ -139,7 +139,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
 [`MIT`][license] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][].
 
-[banner]: https://cmda-minor-vid.github.io/web-animation-18-19/assets/banner.svg
+[banner]: https://cmda-minor-vid.github.io/web-animation-19-20/assets/banner.svg
 [minor]: https://minoren.mijnhva.nl/Paginas/Vormgeving.aspx?wid=WebPartWPQ2&ft=visual%20inter
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri

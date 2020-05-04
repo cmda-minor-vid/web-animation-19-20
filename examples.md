@@ -21,4 +21,4 @@
   </tr>
 </table>
 
-[banner-examples]: https://cmda-bt.github.io/be-course-18-19/assets/banner-examples.svg
+[banner-examples]: https://cmda-minor-vid.github.io/web-animation-19-20/assets/banner-examples.svg
