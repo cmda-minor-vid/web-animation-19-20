@@ -9,7 +9,7 @@
 ## Table of Contents
 *   [Slides](#slides)
 *   [Theory](#theory)
-*   [Lab](#assignments)
+*   [Lab](#lab)
 
 ## Slides
 *  [**Kick-off slides**][slides-lecture]
