@@ -13,7 +13,6 @@
 
 ## Slides
 *  [**Kick-off slides**][slides-lecture]
-*  [**Lab-1**][slides-lab]
 
 ## Theory
 If you want some background information on why this course exists, read the following articles. Long story short, we're **practicing front-end design**.
@@ -68,3 +67,4 @@ Build your artwork inside the browser. Start with an html breakdown, sketch out 
 [theory-flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [theory-grid]: https://css-tricks.com/snippets/css/complete-guide-grid/
 [wf-box]: https://www.youtube.com/watch?v=MrAnu4zdjjY&list=PLPmnoMVpkxfiYN2cE4qY9G9gIkz8YDY-u&index=3
+[slides-lecture]: https://docs.google.com/presentation/d/1g5Le5qpmegfdjtqRFdFbdO4upsZKhZGQa_VvZyZPEe8/edit?usp=sharing
